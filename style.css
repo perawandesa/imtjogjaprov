@@ -1140,18 +1140,14 @@ keyframes coverShake 100% {
   position: relative;
   float: left;
   z-index: 0;
-  width: 45%;
+  width: 25%;
   padding: 10px 20px;
   min-height: 440px;
   text-align: center;
-  margin-right: 15px;
   border: solid 1px #f2f2f2;
   margin-bottom: 15px;
-  -webkit-animation-duration: 1s;
   animation-duration: 1s;
-  -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
-  -webkit-animation-name: fadeInUp;
   animation-name: fadeInUp;
 }
 @media only screen and (max-width: 768px) {
